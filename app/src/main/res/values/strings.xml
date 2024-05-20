@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework15</string>
+    <string name="editText_hint">Введите слово</string>
+    <string name="button_add">Добавить</string>
+    <string name="textView_top_5">Топ 5 слов</string>
+    <string name="button_clear">Очистить</string>
+</resources>
